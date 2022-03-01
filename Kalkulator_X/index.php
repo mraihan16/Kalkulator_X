@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Tutorial Membuat Kalkulator Dengan PHP MySQL</title>
+    <title>Kalkulator_X</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
